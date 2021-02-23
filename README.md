@@ -37,7 +37,7 @@ Here's a walkthrough of implemented user stories:
 
 ![](SimpleTweetPart2Walkthrough.gif)<br>
 
-GIF created with [Peek](https://github.com/phw/peek)..
+GIF created with [Peek](https://github.com/phw/peek).
 
 ## Notes
 
